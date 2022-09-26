@@ -36,10 +36,28 @@
     left: 38%;
 }
 
-.centr2{
-
-}
-
 .centr3{
     left: 58%;
+}
+
+table{
+    border-collapse: separate;
+    empty-cells: hide;
+}
+
+th,td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+.t1{
+    width: 240px;
+}
+
+.t2{
+    width: 190px;
+}
+
+.t3{
+    width: 180px;
 }
