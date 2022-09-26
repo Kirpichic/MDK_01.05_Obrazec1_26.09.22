@@ -1,7 +1,14 @@
 header{
     background-color: #F6A42F;
     color: white;
-    
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    padding: 10px;
+    height: 30px;
+    float: left;
+    width: 100%;
+    margin: 5px;
 }
 
 .inf{
@@ -9,6 +16,15 @@ header{
 }
 
 footer{
+    position: absolute;
     background-color: #F6A42F;
     color: white;
+    bottom: 0px;
+    left: 0px;
+    top: 850px;
+    padding: 10px;
+    height: 30px;
+    float: left;
+    width: 100%;
+    margin: 5px;
 }

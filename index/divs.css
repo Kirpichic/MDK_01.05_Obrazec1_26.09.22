@@ -1,0 +1,45 @@
+.d1,.d2{
+    position: relative;
+    float: left;
+    height: 100px;
+    width: 100%;
+    margin: 5px;
+    padding-left: 10px;
+    top: 50px;
+}
+
+.inf{
+    float: left;
+    mask-image: 5px;
+    margin: 5px;
+}
+
+.ainf{
+    margin: 5px;
+}
+
+.d1{
+    width: 500px;
+}
+
+.d2{
+    float: right;
+    width: 400px;
+}
+
+.centr1,.centr2,.centr3{
+    position: absolute;
+    left: 50%;
+}
+
+.centr1{
+    left: 38%;
+}
+
+.centr2{
+
+}
+
+.centr3{
+    left: 58%;
+}
